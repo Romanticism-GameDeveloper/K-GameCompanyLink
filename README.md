@@ -16,7 +16,7 @@
  NC | [NCSOFT 채용](https://careers.ncsoft.com/apply/list) | [NC 공식 블로그](https://site5.blog.oa.gg/pf/nc/)
  넷마블 | [넷마블컴퍼니 채용](https://company.netmarble.com/rem/www/noticelist.jsp#) | 
  크래프톤 | [크래프톤 채용 공고](https://krafton.com/careers/jobs/) | [크래프톤 공식 블로그](https://blog.krafton.com/)
- 스마일게이트 | [Smilegate Careers](https://careers.smilegate.com/apply/announce?mainCategory=EMP004) | [스마일게이트 퓨처랩](https://futurelab.center/front/program/program) <br> [Stove 온라인 게임잼](https://page.onstove.com/indie/global/list/10802?page=1&direction=LATEST)
+ 스마일게이트 | [Smilegate Careers](https://careers.smilegate.com/apply/announce?mainCategory=EMP004) | [스마일게이트 퓨처랩](https://futurelab.center/front/program/program) (스마일게이트 멤버십, UNSEEN 언리얼 교육 등) <br> [Stove 온라인 게임잼](https://page.onstove.com/indie/global/list/10802?page=1&direction=LATEST)
  펄어비스 | [Pearl Abyss](https://www.pearlabyss.com/ko-KR/Company/Careers/List?_jobGroupCode=1) | [공식 채용 유튜브 - 펄크루트](https://www.youtube.com/c/%ED%8E%84%ED%81%AC%EB%A3%A8%ED%8A%B8)
  네오위즈 | [네오위즈 채용](https://www.neowiz.com/neowiz/careers/recruit?location=all&department=all&workType=all&currentPage=1)
  네오플 | [네오플 채용사이트](https://career.nexon.com/user/recruit/member/postList?joinCorp=NO&jobGroupCd=2&reSubj=)
